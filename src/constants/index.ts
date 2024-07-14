@@ -1,8 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WETH } from 'sdk-sepolia-ywh'
 import { AbstractConnector } from '@web3-react/abstract-connector'
-
 import { fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'
-
 export const ROUTER_ADDRESS = '0x51F708791BFf21d7D3512ba00A926a740Ea85805'
 
 // a list of tokens by chain

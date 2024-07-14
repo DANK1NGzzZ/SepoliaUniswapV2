@@ -1,0 +1,25 @@
+{
+    "name": "SPT",
+    "logoURI": "https://ipfs.filebase.io/ipfs/QmNzoDoofXEkVnDwKZhEqmN3cBTb7Yc8j6mHbyZ5MYh8dZ",
+    "keywords": ["sepolia", "testnet", "tokens"],
+    "timestamp": "2024-07-10T00:00:00Z",
+    "tokens": [
+      {
+        "chainId": 11155111, 
+        "address": "0x921602C56C9C82DE32b336793cB99a25964e51e5", 
+        "name": "Sepolia Ywh",
+        "symbol": "SY",
+        "decimals": 18,
+        "logoURI": "https://ipfs.filebase.io/ipfs/QmNzoDoofXEkVnDwKZhEqmN3cBTb7Yc8j6mHbyZ5MYh8dZ"
+      },
+      {
+        "chainId": 11155111,
+        "address": "0xabcdef1234567890abcdef1234567890abcdef12", 
+        "name": "Sepolia Ghy",
+        "symbol": "SG",
+        "decimals": 18,
+        "logoURI": "https://ipfs.filebase.io/ipfs/QmdG5vjTfVJb3oR4t4kPqiebM86TcvCdz1YwRHChuSNH9o"
+      }
+    ]
+  }
+
